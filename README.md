@@ -1,6 +1,6 @@
 # Example of using the REST API from Rust WebAssembly
 
-A simple sample Rust WebAssembly application that uses the [Nearblocks](https://nearblocks.io) REST API
+A simple example of pure Rust WebAssembly application that uses the [Nearblocks](https://nearblocks.io) REST API
 
 ## Building
 
